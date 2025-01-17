@@ -23,4 +23,6 @@ print(response.text)
 
 - VSCode Python 代码格式化工具：autopep8
 
-- Xpath，Beautiful Soup, 正则；写入 .csv；八爪鱼
+- Xpath，Beautiful Soup, 正则；写入 .csv；JSON，八爪鱼
+
+
