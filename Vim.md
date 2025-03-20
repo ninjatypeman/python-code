@@ -74,8 +74,4 @@ Operator + Motion = Action
 
 寄存器和宏
 
-## 单词
-
-Append, Back, Change, Delete, End, Forward/Find, Go, Insert, Joint, Next, Paste, Quit, Replace, Till, Undo, Visual, Word, Yank,
-
 [Vim Cheat Sheet](https://vim.rtorr.com/lang/zh_cn)
