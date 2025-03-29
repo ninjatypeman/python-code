@@ -8,5 +8,5 @@ print(s(10, 20))  # 调用匿名函数
 print('-' * 30)
 lst = [10, 20, 30, 40, 50]
 for i in range(len(lst)):
-    result = lambda x: x[i]
+    result = lambda x: x[i]  # 隐式return x[i]
     print(result(lst))

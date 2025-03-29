@@ -3,7 +3,7 @@
 1. 安装第三方库
 
 ```bash
-# 临时使用清华源安装 requests 和 bs4 库（或者尝试魔法TUN）
+# 临时使用清华源安装 requests 和 bs4 库
 pip install -i https://mirrors.tuna.tsinghua.edu.cn/pypi/web/simple requests bs4
 # PowerShell 运行：python demo.py
 ```
